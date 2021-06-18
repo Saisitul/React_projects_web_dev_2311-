@@ -1,0 +1,45 @@
+{
+  "blogs": [
+    {
+      "firstname": "Sai",
+      "lastname": "Situl",
+      "birthday": "2021-06-01",
+      "emailfir": "saisitul1997@gmail.com",
+      "newpass": "ethan123",
+      "id": 1
+    },
+    {
+      "firstname": "Leksin",
+      "lastname": "Hunt",
+      "birthday": "2021-06-03",
+      "emailfir": "leksinHunt@gmail.com",
+      "newpass": "hunt123",
+      "id": 2
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "Bal",
+      "emailfir": "saisitulll1997@gmail.com",
+      "birthday": "2021-07-02",
+      "newpass": "www",
+      "checkpass": "www",
+      "id": 3
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "Bal",
+      "emailfir": "saisitul@gmail.com",
+      "newpass": "aaa",
+      "checkpass": "aaa",
+      "id": 4
+    },
+    {
+      "firstname": "Sai",
+      "lastname": "Bal",
+      "emailfir": "saisitul19@gmail.com",
+      "newpass": "qqq",
+      "checkpass": "qqq",
+      "id": 5
+    }
+  ]
+}
