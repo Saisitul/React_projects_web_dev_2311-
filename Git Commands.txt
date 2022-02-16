@@ -1,0 +1,82 @@
+Syntax for cloning a git repo
+
+>git clone Github-url name-you-want-to-give
+
+cloning done
+
+>cd cloned-file
+>npm install  (to install all dependencies)
+>npm start
+
+This is how you clone any react ap from github all by using cmd
+
+
+
+
+----Basic commands(Use of cmd/gitbash terminal)---
+mkdir <fileName>= to create a file with filename
+
+rmdir <fileName>= to create a file with filename
+
+dir= to check current directory
+
+cd..= to move back to previous directory
+
+cd <foldername> = to move inside the folder with foldername
+
+code .= to open the folder in VS code
+
+git status= to check the status i mean staging area of git
+
+git add .= to add all the file in the staging area
+
+git add <filename>=to add a particular file to the staging area
+
+git rm --cached <filename>= to remove one particular file from staging area
+
+git commit -m 'message that you want to give'= commit the staging area file {is uploaded in repo}
+
+git log= to find logs of all commits
+
+git log --oneline= to get the logs in one line
+
+
+git checkout <commit id>= to go the previous commited file stage using the commit id
+
+git checkout master= to go the latest commited file stage using the commit id
+
+///Not so imp
+git revert <commit id>= to delete the commited file stage from very exixtence from log file
+
+
+///Branching
+git branch <branchname>= to create a new branch
+git branch -a= to see all branches
+git checkout <branchname>= to work on that branch
+git branch -d <branchname>= to delete that branch
+git branch -D <branchname>= Again you have give the command to delete that branch on sure basis
+git checkout -b <branchname>= to create the branch and checkout to it directly
+
+git checkout master= to move back to the master branch
+git merge <branchname>= to merge the branch to the master one
+
+//Using github
+git remote add origin <repolink> = this will add the repo as origin
+git push origin master = this will create and psuh a new branch as name master in the required repo
+
+with clone[my project method]:-
+git clone <repo link>= this will create a clone file in our base machine from repo
+git remote -v= to check the origin
+git status= to check git staging area status
+git add .= to add the file to staging area
+git commit -m 'commmit message'= to commit the staging area file
+git push origin master= this will push the new file to our branch master 
+
+Note:- if we clone a repo then no need to add the remote add origin <repolink>. But we have worked on some folder and then we want to push then we will add the remote origin <repolink> first then will push the changes
+
+
+
+
+
+
+
