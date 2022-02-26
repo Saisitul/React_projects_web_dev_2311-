@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "id": 0.0004567,
+      "firstname": "Sai",
+      "lastname": "Bal",
+      "birthday": "2022-01-05",
+      "emailfir": "Saisitul.bal@gmail.com",
+      "newpass": "Sai@123",
+      "checkpass": "Sai@123"
+    },
+    {
+      "id": 0.10159402201187961,
+      "firstname": "Ethan",
+      "lastname": "Hunt",
+      "emailfir": "Ethan.hunt@gmail.com",
+      "birthday": "2022-01-06",
+      "newpass": "Hunt@2311",
+      "checkpass": "Hunt@2311"
+    },
+    {
+      "id": 0.07956185792644477,
+      "firstname": "Kaguya",
+      "lastname": "otsua",
+      "emailfir": "kaguya.otsua@gmail.com",
+      "birthday": "2022-01-27",
+      "newpass": "Love@14",
+      "checkpass": "Love@14"
+    }
+  ]
+}
